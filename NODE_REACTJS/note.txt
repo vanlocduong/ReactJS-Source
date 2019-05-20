@@ -1,0 +1,6 @@
+
+--tao app
+npm install express-generator -g
+express myapp -e
+npm install
+npm start
