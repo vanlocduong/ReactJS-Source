@@ -1,0 +1,10 @@
+- hoc ngon ngu moi 
+	+ nam ly thuyet
+	+ hoc kien truc cua no
+	+ hoc life-cycle cua no
+	+ learning cach code
+-hoc ngon ngu moi
+	+ tu tao project minh suy nghi de code
+	+ tu code 
+	+ lam that nhieu
+
